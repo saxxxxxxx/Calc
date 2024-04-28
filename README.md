@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 calc.html
 
 <!DOCTYPE html>
@@ -140,7 +140,7 @@ function calculate() {
     display.value = 'Error';
   }
 }
-
+```
 ## OUTPUT:
 ![alt text](<Screenshot 2024-04-28 181725.png>)
 ![alt text](<Screenshot 2024-04-28 181741.png>)
